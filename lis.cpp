@@ -19,7 +19,7 @@ using namespace std;
 //Longest Increasing subsequence
 //Linear DP solution
 //Recurrence
-//dp[i]=Longest Increasing subsequence ending at index i
+//dp[i]=Length of Longest Increasing subsequence ending at index i
 //Thus dp[i]=1+max(dp[j]) for all j from 1 to i such that a[i]<=a[j]
 //          =1 is no such j exists
 //Time Complexity O(n^2)
