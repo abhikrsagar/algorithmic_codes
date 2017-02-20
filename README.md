@@ -1,1 +1,1 @@
-# algorithmic_codes
+This repository is basically intended for algorithmic codes which can be quite helpful for beginners to indulge into Competitive Programming. I will try to update the list regularly with well commented and easier codes to standard algorithms as well as some problems from various platforms like CodeChef, Codeforces etc.
